@@ -2,7 +2,7 @@
 	"name": "narkniro/wordpress-site-template",
 	"type": "project",
 	"description": "Wordpress site template",
-	"minimum-stability": "stable",
+	"minimum-stability": "dev",
 	"prefer-stable": true,
 	"authors": [
 		{
